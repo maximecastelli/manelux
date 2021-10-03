@@ -1,2 +1,1 @@
-# manelux
-A website for ManeLux
+A website for Mane Lux
